@@ -8,3 +8,4 @@ Familiarizing Python and GitHub. Learn and invest into python programming from s
 ```
 git clone https://github.com/EJG2000/LEARN.PY.git
 ```
+1. Alternatively run notebook in [google colab](https://colab.research.google.com)
